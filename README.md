@@ -21,15 +21,21 @@ Technologies Used
 Frontend:
 
 React: A JavaScript library for building user interfaces.
+
 Material-UI: A popular React UI framework that provides pre-designed components for creating a visually appealing user interface.
+
 Redux: A predictable state container for JavaScript applications, used for managing the application's state.
+
 Axios: A promise-based HTTP client for making API requests.
 
 Backend:
 
 Node.js: A JavaScript runtime for executing server-side code.
+
 Express: A web application framework for building APIs and handling server-side logic.
+
 MongoDB: A NoSQL database used for storing user information, blogs, and other data.
+
 Mongoose: A MongoDB object modeling tool used to interact with the database from Node.js.
 
 Authentication and Authorization:
